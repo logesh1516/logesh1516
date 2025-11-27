@@ -72,9 +72,6 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/logesh1516/logesh1516/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
