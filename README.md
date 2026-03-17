@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e&reversal=false" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=洛格什&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Robotics%20Engineer%20%7C%20Systems%20Architect%20%7C%20Digital%20Craftsman&descSize=18&descAlign=50&descAlignY=65&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=洛格什&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Robotics%20Engineer%20%7C%20Breaking%20Things%20to%20Fix%20 Them%20%7C%20Digital%20Craftsman&descSize=18&descAlign=50&descAlignY=65&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" width="100%"/>
 
 </div>
 
