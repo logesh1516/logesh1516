@@ -82,17 +82,6 @@ fun_fact: My robots have better posture than I do and BTW i use Neovim 😎.
 </div>
 
 ---
-## 🐍 Watch the Snake Eat My Contributions
- 
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/logesh1516/logesh1516/blob/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/logesh1516/logesh1516/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://github.com/logesh1516/logesh1516/blob/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-</div>
-
----
 
 ## 🤝 Let's Connect
 
