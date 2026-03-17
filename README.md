@@ -82,13 +82,15 @@ fun_fact: My robots have better posture than I do and BTW i use Neovim 😎.
 </div>
 
 ---
-## 👁️ Profile Views
+## 🐍 Watch the Snake Eat My Contributions
  
 <div align="center">
- 
-![Profile Views](https://komarev.com/ghpvc/?username=logesh1516&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
-![GitHub followers](https://img.shields.io/github/followers/logesh1516?style=for-the-badge&color=7C3AED&labelColor=0d1117&label=FOLLOWERS)
-![GitHub stars](https://img.shields.io/github/stars/logesh1516?style=for-the-badge&color=7C3AED&labelColor=0d1117&label=TOTAL+STARS)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/logesh1516/logesh1516/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/logesh1516/logesh1516/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/logesh1516/logesh1516/blob/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+</div>
 
 ---
 
