@@ -1,64 +1,123 @@
-<h1 align="center">✨ 大家好！我是洛格什✨</h1>
+<div align="center">
 
-###
+```
+██╗      ██████╗  ██████╗ ███████╗███████╗██╗  ██╗
+██║     ██╔═══██╗██╔════╝ ██╔════╝██╔════╝██║  ██║
+██║     ██║   ██║██║  ███╗█████╗  ███████╗███████║
+██║     ██║   ██║██║   ██║██╔══╝  ╚════██║██╔══██║
+███████╗╚██████╔╝╚██████╔╝███████╗███████║██║  ██║
+╚══════╝ ╚═════╝  ╚═════╝ ╚══════╝╚══════╝╚═╝  ╚═╝
+```
 
-<br clear="both">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=洛格什&fontSize=80&fontColor=ffffff&fontAlign=50&fontAlignY=40&desc=Robotics%20Engineer%20%7C%20Systems%20Architect%20%7C%20Digital%20Craftsman&descSize=18&descAlign=50&descAlignY=65&color=0:0f0c29,50:302b63,100:24243e&animation=fadeIn" width="100%"/>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<br clear="both">
-
-<h4 align="center">🚀 Designing, simulating, and deploying next-gen robotic systems</h4>
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=blur&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=cobalt"  />
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">My cup of tea☕</h2>
-
-###
+---
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/ros/22314E" height="40" alt="ros logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/dart/0175C2" height="40" alt="dart logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" height="40" alt="ubuntu logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
+
+### 🤖 *"Turning caffeine and code into robots that don't try to kill you (yet)"*
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Designing+Next-Gen+Robotic+Systems+%F0%9F%A6%BE;Simulating+the+impossible+%E2%9A%A1;Deploying+robots+into+the+wild+%F0%9F%9A%80;ROS2+%7C+C%2B%2B+%7C+Python+%7C+Flutter)](https://git.io/typing-svg)
+
 </div>
 
-###
+---
+
+## 🧬 `$ whoami`
+
+```yaml
+name: Logesh
+alias: "洛格什"
+role: Robotics Engineer & Full-Stack Tinkerer
+location: India 🇮🇳
+status: Building things that move 🤖
+mission: >
+  Bridging the gap between simulation and reality,
+  one line of C++ at a time.
+currently_obsessing_over:
+  - Autonomous navigation stacks
+  - Embedded systems & firmware
+  - Cross-platform app development
+  - Infrastructure as Code
+fun_fact: My robots have better posture than I do.
+```
+
+---
+
+## ⚡ Tech Arsenal
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=logesh1516&theme=dracula&area=true" height="150" alt="activity-graph graph"  />
+
+### 🦾 Robotics & Embedded
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 🧠 Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### 🔧 Tools & Infrastructure
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <a href="logesh15ak@gmail.com" target="_blank">
-  </a>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=logesh1516&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&border_radius=12" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logesh1516&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7C3AED&text_color=c9d1d9&border_radius=12" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=logesh1516&theme=tokyonight&hide_border=true&background=0d1117&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED&border_radius=12" height="170"/>
+
 </div>
 
-###
+---
+
+## 🌊 Contribution Activity
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=logesh1516&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7C3AED&line=7C3AED&point=ffffff&area_color=7C3AED" width="100%"/>
+</div>
+
+---
+
+## 🏆 Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=logesh1516&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:logesh15ak@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/logesh1516)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f0c29,50:302b63,100:24243e&reversal=false" width="100%"/>
+
+*⭐ From [logesh1516](https://github.com/logesh1516) — Built with 💜 and too much ☕*
+
+</div>
