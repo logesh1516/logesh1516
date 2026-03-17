@@ -30,18 +30,16 @@
 ```yaml
 name: Logesh
 alias: "洛格什"
-role: Robotics Engineer & Full-Stack Tinkerer
-location: India 🇮🇳
+role: Robotics Engineer
 status: Building things that move 🤖
 mission: >
   Bridging the gap between simulation and reality,
   one line of C++ at a time.
 currently_obsessing_over:
-  - Autonomous navigation stacks
-  - Embedded systems & firmware
-  - Cross-platform app development
-  - Infrastructure as Code
-fun_fact: My robots have better posture than I do.
+  - ROS2 & RL
+  - Autonomous navigation stacks & Moveit frameworks 
+  - 3D modeling
+fun_fact: My robots have better posture than I do and BTW i use Neovim 😎.
 ```
 
 ---
