@@ -12,7 +12,7 @@
 
 ### 🤖 *"Turning caffeine and code into robots that don't try to kill you (yet)"*
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Designing+Next-Gen+Robotic+Systems+%F0%9F%A6%BE;Simulating+the+impossible+%E2%9A%A1;Deploying+robots+into+the+wild+%F0%9F%9A%80;ROS2+%7C+C%2B%2B+%7C+Python+%7C+Flutter)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=120&lines=Designing+Next-Gen+Robotic+Systems+%F0%9F%A6%BE;Simulating+the+impossible+%E2%9A%A1;Deploying+robots+into+the+wild+%F0%9F%9A%80;ROS2+%7C+C%2B%2B+%7C+Python+%7C+RL)](https://git.io/typing-svg)
 
 </div>
 
