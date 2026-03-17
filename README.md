@@ -82,12 +82,13 @@ fun_fact: My robots have better posture than I do and BTW i use Neovim 😎.
 </div>
 
 ---
-
-## 🏆 Trophies
-
+## 👁️ Profile Views
+ 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=logesh1516&theme=tokyonight&no-frame=true&column=7&margin-w=10" width="100%"/>
-</div>
+ 
+![Profile Views](https://komarev.com/ghpvc/?username=logesh1516&color=7C3AED&style=for-the-badge&label=PROFILE+VIEWS)
+![GitHub followers](https://img.shields.io/github/followers/logesh1516?style=for-the-badge&color=7C3AED&labelColor=0d1117&label=FOLLOWERS)
+![GitHub stars](https://img.shields.io/github/stars/logesh1516?style=for-the-badge&color=7C3AED&labelColor=0d1117&label=TOTAL+STARS)
 
 ---
 
