@@ -12,7 +12,6 @@
 name        : Logesh S
 role        : Robotics Engineer & Simulation Developer
 focus       : Autonomous Mobile Robots · ROS 2 · AI-Driven Navigation
-institution : Sri Ramakrishna Engineering College
 stack       : ROS 2 · Gazebo · Isaac Sim · Nav2 · Docker · Python · C++
 ```
 
