@@ -11,8 +11,8 @@
 ```yaml
 name        : Logesh S
 role        : Robotics Engineer & Simulation Developer
-focus       : Autonomous Mobile Robots · ROS 2 · AI-Driven Navigation
-stack       : ROS 2 · Gazebo · Isaac Sim · Nav2 · Docker · Python · C++
+focus       : Autonomous Mobile Robots · ROS 2 · State Estimation , Robotic Arms
+stack       : ROS 2 · Gazebo · Isaac Sim · Nav2 · Docker · Moveit2 · C++
 ```
 
 ---
