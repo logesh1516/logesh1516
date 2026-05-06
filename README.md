@@ -111,9 +111,6 @@ C++ snippet templates for MoveIt 2 Task Constructor. Built from real pain points
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=logesh1516&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=76B900" height="160"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=logesh1516&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160"/>
 
 <br/>
 
